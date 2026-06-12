@@ -19,6 +19,12 @@
       "skillPath": "skills/microsoft-foundry/SKILL.md",
       "computedHash": "19052fb81ee82243a4ba697d4f427ee650ff91cd1002bc7d17962d94a45fb2f3"
     },
+    "sleek-design-mobile-apps": {
+      "source": "sleekdotdesign/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-mobile-apps/SKILL.md",
+      "computedHash": "aafa60cd2532f5f4c917db4880769d8bf0132af5b35eb5d31e72d753e2121c04"
+    },
     "ui-ux-pro-max": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
